@@ -1,0 +1,63 @@
+<resources>
+<string name="app_name">CurriculumVitae</string>
+
+
+
+<string name="diFactory">
+        DI Factory, postprodukcja \nfilmowa (http://www.film\npolski.pl\fp/index.php?osoba\n=11138254)
+    </string>
+
+<string name="kossService">
+        KOSS Service, kierowca
+    </string>
+
+<string name="staz">
+        Stażysta, Nadleśnictwo \nDrewnica
+    </string>
+
+<string name="empik">
+        Doradca klienta, Empik
+    </string>
+
+<string name="porthos">
+        Artystyczna Manufaktura \nPorthos, asystent kierownika \nprodukcji
+    </string>
+
+<string name="putka">
+        Piekarnia Putka, pomocnik \npiekarza
+    </string>
+
+<string name="lesnictwo">
+        SGGW, Leśnictwo
+    </string>
+
+<string name="ochronaSrodowiska">
+        WSEiZ, Ochrona Środowiska
+    </string>
+
+<string name="kurs">
+        Kurs Java Android
+    </string>
+
+<string name="bractwo">
+        Członek Bractwa Rycerskiego \n<i>Anguis in herba</i>
+    </string>
+
+<string name="ksiazki">
+        Książki (beletrystyka i fantastyka)
+    </string>
+
+<string name="muzyka">
+        Muzyka
+    </string>
+
+<string name="bitewniaki">
+        Planszówki, gry bitewne
+    </string>
+
+<string name="moto">
+        Podróże motocyklem
+    </string>
+
+
+</resources>
